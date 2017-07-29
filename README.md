@@ -9,4 +9,4 @@
 
 # Todo
 - 暂定爬取腾讯nba
-- PhantomJS + selenium
+- PhantomJS + Selenium
